@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>The Brethren of the Sea Serpent.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.15081298</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>The Church of Forgotten Lands.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.18082201</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>The Forgers of the Marbled City.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.15081406</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>The Glorious Merchant Republic.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.15081096</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>The Horselords of the Steppe.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.15081096</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>The Teachers of Ancient Truths.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>554711688.15081096</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>554711732.929456</real>
+				<key>lastModification</key>
+				<real>554711732.929456</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>30</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>The Glorious Merchant Republic.md</string>
+			<string>The Horselords of the Steppe.md</string>
+			<string>The Teachers of Ancient Truths.md</string>
+			<string>Untitled.md</string>
+			<string>The Brethren of the Sea Serpent.md</string>
+			<string>The Forgers of the Marbled City.md</string>
+			<string>The Church of Forgotten Lands.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+			<integer>30</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
