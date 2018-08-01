@@ -10,6 +10,20 @@
 		<dict/>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Arbiter Characters.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>554819494.41637802</real>
+				<key>lastModification</key>
+				<real>554819494.41637802</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -140,6 +154,9 @@
 			<string>The Glorious Merchant Republic.md</string>
 		</array>
 		<array>
+			<string>Arbiter Characters.md</string>
+		</array>
+		<array>
 			<string>README.md</string>
 		</array>
 		<array>
@@ -176,7 +193,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>40</integer>
+			<integer>45</integer>
 		</dict>
 	</dict>
 </dict>

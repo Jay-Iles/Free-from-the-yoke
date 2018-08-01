@@ -6,48 +6,44 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Character Moves.md</key>
+			<key>Age Modifiers.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>554737170.554649</real>
+				<real>554819595.01787603</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>17</integer>
+					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>Core Mechanic modification.md</key>
+			<key>Arbiter Characters.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>554819332.00599897</real>
 				<key>lastModification</key>
-				<real>554819332.00599897</real>
+				<real>554819494.41377103</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>24</integer>
+					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>Family Moves.md</key>
+			<key>Arbiter Playbooks.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>554737186.93843997</real>
+				<real>554819584.86622202</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>22</integer>
+					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>Playable Prologue Mechanics.md</key>
+			<key>Arbiter Relationship.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>554737170.55464995</real>
+				<real>554819720.18355095</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>17</integer>
+					<integer>15</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -55,10 +51,16 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Core Mechanic modification.md</string>
-			<string>Family Moves.md</string>
-			<string>Character Moves.md</string>
-			<string>Playable Prologue Mechanics.md</string>
+			<string>Arbiter Characters.md</string>
+		</array>
+		<array>
+			<string>Arbiter Playbooks.md</string>
+		</array>
+		<array>
+			<string>Age Modifiers.md</string>
+		</array>
+		<array>
+			<string>Arbiter Relationship.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -68,7 +70,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>24</integer>
+			<integer>16</integer>
 		</dict>
 	</dict>
 </dict>
