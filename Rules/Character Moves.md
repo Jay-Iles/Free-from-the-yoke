@@ -38,9 +38,12 @@ A 10+ result takes the threat out of the picture until someone takes action to r
 
 ## Unleash Power
 When you learn a ritual of the land, the GM will give you a few clues about what it can do. 
-When you use the ritual, say a thing you want it to do based on the clues and roll +Lore. 
+When you use the ritual, say a thing you want it to do based on your understanding of it and roll +Lore. 
 On a 7-9 pick two; on a 10+ pick three:
-
+* The magic does not draw power from your own health.
+* The magic only affects as much as you wish it to.
+* The magic lasts for as long as you wish it to.
+* The magic does not cause any lingering effects in the area.
 
 Magic is unpredictable: only the options you pick when you use the ritual definitely happen. The options you didn’t pick may happen, or may not – it’s up to the GM. 
 GM note: even when a ritual doesn’t do what a player wants, rolling a 7+ should still improve their current situation.
@@ -82,7 +85,7 @@ It’s possible to pick options that have already been established explicitly or
 
 ### Examples: Find Common Ground
 
-## Information is Power
+## Keen Insight
 When your character draws on your family’s knowledge and spends a point of Insight, reveal a secret they discovered about your target and get fleeting advantage exploiting it.
 
 This is a catch-all bonus – it can boost any action that your family could conceivably have prepared you for. As you activate this, briefly say what detail of the situation your character is exploiting to get the bonus. Remember – advantage doesn’t stack. If you already have one source of it, this move won’t provide additional help.
@@ -123,12 +126,11 @@ On a 7+, gain 1 Insight. On 7-9 ask 1; on a 10+, ask 3:
 ### Example: unearth forgotten lore
 
 ## Duel
-When you face down a matched foe in single combat, roll +Might. On a 7-9 hold 1, on a 10+ hold 2.
-When your opponent is a PC, they roll Might and gain hold as above.
-When your opponent is a GMC, they gain 1 hold if they are:
-* A fearsome and powerful fighter.
-* Equipped with impressive arms or sorceries.
-* Avenging a grudge.
+When you face down a matched foe in single combat, gain 1 hold for each that is true:
+* You are better equipped.
+* You are avenging a grudge.
+* The audience favours you.
+Then gain Hold equal to your Might score.
 
 As you duel, you and your opponents take it in turns to describe your actions and then pick a statement from the list below. Keep taking turns until the duel is over.
 
@@ -149,11 +151,11 @@ Spend 1 Hold to pick one of these:
 
 ## Learn a Ritual
 When you learn a ritual, roll +Lore. On a 7-9, your tutor picks two conditions; on a 10+ they pick one.
-* You cannot use the ritual in a certain set of circumstances.
-* You cannot use the ritual to affect a certain set of people.
-* You must conduct yourself according to a particular virtue.
-* You are forbidden from carrying out a particular action.
-* Once a season, you must perform a particular action.
+* You can only use the ritual in a certain set of circumstances your tutor sets out.
+* You cannot use the ritual to affect a certain group of people your tutor sets out.
+* You must conduct yourself according to a particular virtue  your tutor sets out.
+* You are forbidden from carrying out a particular action your tutor sets out.
+* Once a season, you must perform a particular action your tutor sets out.
 * You cannot teach the ritual to others.
 
 If you break the condition, you cannot use the ritual any more until you gain the permission of the tutor.
