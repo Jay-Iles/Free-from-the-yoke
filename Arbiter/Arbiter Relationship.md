@@ -13,11 +13,13 @@ Your favour is somewhere on this 5-step scale:
 Every family starts at 0.
 
 ## Changing Favour
-To raise your favour, give the Arbiter one of the surpluses they need for their project (see Arbiter Projects).
+*To raise your favour,* give the Arbiter one of the surpluses they need for their project (see Arbiter Projects).
 
-To reduce your favour, simply say you're doing so, but your Family's fortunes wane; trigger **Hold Together**.
+*To reduce your favour,* simply say you're doing so. 
 
-Each time you ask for the aid of the Arbiter's Hand, your Favour moves one step towards 0 (see Arbiter Characters).
+*Each time your favour drops,* your Family's fortunes wane; trigger **Hold Together**.
+
+*Each time you ask for the aid of the Arbiter's Hand,* your Favour moves one step towards 0 (see Arbiter Characters).
 
 ## Holding Court
 *At the beginning of each season,* the Arbiter calls on each Family of note to serve them. Roll +Favour.
@@ -31,16 +33,3 @@ On a 7-9, they have something they need from you. The GM picks one:
 If you do it by the end of the season, gain 1-Favour. Otherwise, lose 1-Favour.
 
 On a 10+, you are given trusted access to a part of their regime. The GM gives you control over one or more Surpluses invested in their Project, and tells you what the Arbiter wants done with them this season. If you do it, gain 1-Favour; if you fail at it, lose 1-Favour and the Surpluses.
-
-# Sketched out Draft
-Each Family occupies a position in a scale according to their closeness to the Arbiter’s court.
-Close Ally \<\> Cordial Friendship \<\> Arbiter Oversight \<\> Distant Relationship \<\> Peripheral
-
-
-
-Closer relationship with Arbiter allows you to make use of some of their resources as if they were your own, but requires contribution to the Arbiter’s Project to maintain.
-
-Further relationships let you exploit resources without oversight by the Arbiter, but you must use some means to resist being brought back under the influence.
-
-How often? Broken up by seasons. Arbiter holds court/moves around, break up into season periods for play. 
-
