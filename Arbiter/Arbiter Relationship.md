@@ -4,11 +4,11 @@ Your family may be anything from a trusted confidente of the Arbiter to a pariah
 
 ## The Scale
 Your favour is somewhere on this 5-step scale:
-+2: Close Ally
-+1: Cordial Friendship
-0: Arbiter Oversight
--1: Distant Relationship
--2: Peripheral
+* +2: Close Ally
+* +1: Cordial Friendship
+* 0: Arbiter Oversight
+* -1: Distant Relationship
+* -2: Peripheral
 
 Every family starts at 0.
 
