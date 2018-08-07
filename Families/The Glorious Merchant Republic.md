@@ -27,9 +27,9 @@
 
 ## History
 * How did the Empire treat your state?
-* Which family was the ancient trading partner before the Empire came?
+* Which house was the ancient trading partner before the Empire came?
 * Which new land of boundless opportunity did the Empire teach you of, and who from it now lives within your state?
-* Which family do you now rely on to be an effective trader?
+* Which house do you now rely on to be an effective trader?
 
 ## Doctrine
 * Know The True Nature of Your Partners
@@ -38,8 +38,8 @@
 
 ## Lifestyle
 * **The Merchant City:** Power and the nexus of trade is concentrated within one city. It is walled and defensible, able to attract the best from all around. Your ability to trade cannot be disrupted as long as the City stands.
-* **A Network of Towns:** Through the cooperation of several towns in the state, the family is flexible, easily able to expand and grow in different directions, choosing many new partners and trade-routes. The loss of one town may be a blow, but the others will carry on the work.
-* **A Branch in Every State:** Your family has long moved beyond the concern of just one city, spreading tendrils into every nearby state. This means at least cordial relations with all the nearby state and the ability to find some common ground with them.
+* **A Network of Towns:** Through the cooperation of several towns in the state, the house is flexible, easily able to expand and grow in different directions, choosing many new partners and trade-routes. The loss of one town may be a blow, but the others will carry on the work.
+* **A Branch in Every State:** Your house has long moved beyond the concern of just one city, spreading tendrils into every nearby state. This means at least cordial relations with all the nearby state and the ability to find some common ground with them.
 
 ## Resource
 Pick 3 as Surpluses and 2 as needs

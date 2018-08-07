@@ -29,9 +29,9 @@ How did the Empire treat your state?
 
 Which far-off country brought the Church to your lands?
 
-Which family sheltered your people when the Empire persecuted them?
+Which house sheltered your people when the Empire persecuted them?
 
-What old grudge with another family still burns in the memory of your people?
+What old grudge with another house still burns in the memory of your people?
 
 Doctrine
 Warriors of God
@@ -53,5 +53,4 @@ Rouse the Faithful
 Pray for Miracles
 
 Call Council
-
 

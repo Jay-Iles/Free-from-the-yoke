@@ -4,7 +4,7 @@ Reach 1, Grasp -1, Sleight 2
 Reach 2, Grasp -1, Sleight 1
 
 Traditions
-Rule: The council of elders; the Grandmaster rules all; three elected from the wisest of the family
+Rule: The council of elders; the Grandmaster rules all; three elected from the wisest of the house
 Populace: The educated elites rise above the dirt and poverty of the farmers; even the lowliest must learn something of the wisdom of ages past but must be haunted by the knowledge; crafty feudal landlords control the land, its people and its resources, yet they are guided to use it wisely
 Culture: The Ancient art and clothes still hold true even against the advance of time; old is new and new is old and the ways of your people are strange and modern to others; the culture of the Empire was a good disguise, still adopted
 
@@ -20,18 +20,18 @@ A toppled statue, its features disfigured and its purpose forbidden
 A new, expensive temple, built to house the Empire’s religious duties now lying empty and abandoned
 
 New (the first expression of independence)
-A great library, the Empire taught your family the value of accruing and protecting your knowledge better than you could before
+A great library, the Empire taught your house the value of accruing and protecting your knowledge better than you could before
 A gathering place, rows of rocks in concentric circles to house the discussions of the rulers
 The New and Ancient Hill, the tallest peak for miles around that sprang forth from the ground overnight as the Empire was expelled
 
 History
 How did the Empire treat your state?
 
-Which family did you choose to reveal an Ancient secret to in time of need?
+Which house did you choose to reveal an Ancient secret to in time of need?
 
 From which land did historians and geographers of the Empire come to try and learn your traditions and secrets?
 
-What terrible curse did your ancestors lay upon a family long-gone that haunts you to this day?
+What terrible curse did your ancestors lay upon a house long-gone that haunts you to this day?
 
 Doctrine
 The Truth Must Be Guarded
@@ -39,7 +39,7 @@ Teach Others True Understanding
 Know Yourself to Unleash True Potential
 
 Lifestyle
-A Centre of Learning - Princes, merchants, warlords from other families all travel to your city to learn and your family knows each and every one
+A Centre of Learning - Princes, merchants, warlords from other families all travel to your city to learn and your house knows each and every one
 Long-Lived People - It takes time for wisdom to mature, so the people live longer than most and those who cannot till the fields come to study
 The Furthest Reaches - Your lands are old and storied and still cultivated using methods of old, so that none may doubt you as the successors of the common ancestors
 
@@ -55,7 +55,7 @@ Treasured texts copied and distributed throughout the land
 How Do You Defend Your City?
 The old ways speak of tactics and strategies still effective in battle to this day
 The walls are strong, but it is the stored provisions and a deep well that ensure the survival of the city
-The strange Artefacts of power held by the rulers are said to be proof against any foe who would threaten the family
+The strange Artefacts of power held by the rulers are said to be proof against any foe who would threaten the house
 
 What Are Your Greatest Treasures? (Choose 2)
 Birch-bark texts, the earliest records made by any of our people, now imbued with great power
