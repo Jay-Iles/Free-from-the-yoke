@@ -11,6 +11,7 @@ For each of your Surpluses, pick a relevant benefit:
 Each option can be picked multiple times.
 
 # Weapon tags
+
 Every house can always outfit a character with a weapon with the melee tag.
 
 Melee: This weapon can be used to attack foes within a few yards.
@@ -29,6 +30,7 @@ Here are the extra tags you might give weapons:
 * Weird: Something of the old lore of the land clings to the weapon, causing a particular spooky effect specific to the weapon.
 
 # Outfit tags
+
 Every house can always outfit a character with an outfit with either the *practical* or the *heraldry* tags.
 
 * *Practical*: the outfit is unremarkable but can be easily repaired.
