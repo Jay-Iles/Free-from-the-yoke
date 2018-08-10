@@ -17,16 +17,16 @@ Melee: This weapon can be used to attack foes within a few yards.
 
 Here are the extra tags you might give weapons:
 
-Far: This weapon can be used to attack foes within eyesight.
-Brutal: The weapon inflicts awful harm, devestating and terrifying foes.
-Silent: The weapon doesn’t draw attention to you when used.
-Hidden: Carrying this weapon won’t cause people to think you’re dangerous.
-Siege: The weapon can help bring down fortifications and army-scale defences, but it requires a group of companions with a relevant specialisation to operate.
-Non-Lethal: The weapon doesn’t cause lasting damage and can help capture your foes.
-Many: Should you lose this weapon, you’ll have others to hand.
-Elegant: The weapon is impressive and flashy in use, and can circumvent crude defences.
-Heirloom: The weapon played a pivotal role in your House’s history. While you hold it, gain Advantage on rolls to command and convince members of your House. If you lose it and don’t recover it before we Zoom Out, your House must Hold Together.
-
+* Far: This weapon can be used to attack foes within eyesight.
+* Brutal: The weapon inflicts awful harm, devestating and terrifying foes.
+* Silent: The weapon doesn’t draw attention to you when used.
+* Hidden: Carrying this weapon won’t cause people to think you’re dangerous.
+* Siege: The weapon can help bring down fortifications and army-scale defences, but it requires a group of companions with a relevant specialisation to operate and needs special transports to move it.
+* Non-Lethal: The weapon doesn’t cause lasting damage and can help capture your foes.
+* Many: Should you lose this weapon, you’ll have others to hand.
+* Elegant: The weapon is impressive and flashy in use, and can circumvent crude defences.
+* Heirloom: The weapon played a pivotal role in your House’s history. While you hold it, gain Advantage on rolls to command and convince members of your House. If you lose it and don’t recover it before we Zoom Out, your House must Hold Together.
+* Weird: Something of the old lore of the land clings to the weapon, causing a particular spooky effect specific to the weapon.
 
 # Outfit tags
 
