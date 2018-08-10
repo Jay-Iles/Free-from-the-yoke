@@ -11,7 +11,7 @@ For each of your Surpluses, pick a relevant benefit:
 Each option can be picked multiple times.
 
 # Weapon tags
-Every house can always outfit a character with the melee tag.
+Every house can always outfit a character with a weapon with the melee tag.
 
 Melee: This weapon can be used to attack foes within a few yards.
 
@@ -29,7 +29,18 @@ Here are the extra tags you might give weapons:
 * Weird: Something of the old lore of the land clings to the weapon, causing a particular spooky effect specific to the weapon.
 
 # Outfit tags
+Every house can always outfit a character with an outfit with either the *practical* or the *heraldry* tags.
 
+* *Practical*: the outfit is unremarkable but can be easily repaired.
+* *Heraldry*: the outfit displays your house affiliation boldly.
+
+Here are the other tags you might give outfits:
+
+* *Regal*: the outfit is impressive and eye-catching.
+* *Subtle*: the outfit helps you avoid notice. If you have cover or do not move, you will not be seen.
+* *Hardy*: the outfit helps you resist the elements - it negates disadvantage from cold, rain or dangerous weather, and gives you 1 armour when those deal harm to you.
+* *Tough*: the outfit is reinforced against physical blows. It negates disadvantage stemming from physical impacts - hail, landslide, suppressing fire, etc - and gives you 1 armour when you take physical harm.
+* *Meditative*: the outfit helps you centre yourself and focus your thoughts. It negates disadvantage stemming from distraction, intrusive thoughts and hauntings, and gives you 1-armour when those deal damage to you.
 # Transport tags
 
 # Companions
