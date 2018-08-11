@@ -1,24 +1,34 @@
 ## Stats
-Might +1, Bravery +1, Cunning 0, Lore -1
-Might +1, Bravery +1, Cunning -1, Lore 0
-Might +2, Bravery 0, Cunning 0, Lore -1
+* Might +1, Bravery +1, Cunning 0, Lore -1
+* Might +1, Bravery +1, Cunning -1, Lore 0
+* Might +2, Bravery 0, Cunning 0, Lore -1
 
 ## Looks
 Masculine, feminine, concealed, ambiguous.
+
 Handsome face, brave face, soft face, scarred face.
+
 Shining eyes, cruel eyes, judging eyes, one eye
+
 Huge body, muscular body, stocky body, compact body
 
 ## Backstory
+I respect _______’s devotion to their House, even though it caused me trouble.
+_______ and I duelled once. They won, but only barely.
+_______ switched sides to help me. Can I trust them?
 
 ## Gear
-Add a tag to your Armoury or Outfit when you Prepare and Provision
+Add a tag to your Armoury or Outfit when you Prepare and Provision.
 
 ## Role Moves
-Leader
-Agent
-Rebel
-Outsider
+### Leader
+Mark when you are placed in command of your House’s warriors. Say who you’ve been tasked to defeat; GM says where they are, and what obstance stands in your way.
+
+### Agent
+Mark 
+### Rebel
+
+### Outsider
 
 ## Bogatyr Moves
 ### Against Countless Enemies
