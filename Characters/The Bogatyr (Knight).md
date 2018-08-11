@@ -24,9 +24,10 @@ Add a tag to your Armoury or Outfit when you Prepare and Provision.
 ### Leader
 Mark when you are placed in command of your House’s warriors. Say who you’ve been tasked to defeat; GM says where they are, and what obstance stands in your way.
 
-### Agent
-Mark 
-### Rebel
+### Champion
+Mark when you swear an oath to confront a particular foe. Say what you promise not to do until they’re dealt with. GM says one thing that won’t harm you so long as you hold to your oath: bandits, honourable warriors, wild animals, the elements, thirst and starvation.
+
+### Rogue
 
 ### Outsider
 
