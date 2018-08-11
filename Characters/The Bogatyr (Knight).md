@@ -28,8 +28,10 @@ Mark when you are placed in command of your House’s warriors. Say who you’ve
 Mark when you swear an oath to confront a particular foe. Say what you promise not to do until they’re dealt with. GM says one thing that won’t harm you so long as you hold to your oath: bandits, honourable warriors, wild animals, the elements, thirst and starvation.
 
 ### Rogue
+Mark when you ignore your House’s interests to pursue vengeance. Say why it’s crucial your foe is stopped before too late; GM says where you might find allies in your quest.
 
 ### Outsider
+Mark when you protect an enemy of your House, or kill an ally. Say why this is in your House’s best interests, GM says who is now coming to hunt you down.
 
 ## Bogatyr Moves
 ### Against Countless Enemies
@@ -56,10 +58,13 @@ When the need is dire, you can call on deep reserves of strength.
 During the duel, you can spend 1 Hold to instantly turn an incoming Heavy Wound into a Flesh Wound, or draw a new weapon.
 
 ## Harm
+Flesh Wound [][][]
+Heavy Wound [][]
+Dead []
 
 ## Death Move
-Last stand
+When you mark off your Dead box, plant your feet and make your last stand. No matter what, you'll remain fighting until your allies are safe and the danger has passed. Only then do you die.
 
-Playing the Bogatyr
+## Playing the Bogatyr
 Brash, aggressive, visible, resplendent 
 
