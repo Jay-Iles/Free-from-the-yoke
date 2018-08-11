@@ -51,19 +51,62 @@ A little taken from each corner of the land as fashions and curiosities are brou
 
 ## Resources
 Pick 2 as Surpluses and 3 as Needs:
-Warships, Lumber, Fish, Sailors, Skins and furs
+Gold and Jewels, Lumber, Fish, Sailors, Skins and furs
 
 ## Assets
+### What marks your fleet out as special?
+They have the *water* and *craft* tags. In addition, pick two:
+* Reinforced hulls (gain tag: Durable).
+* They’re jewel-ornamented and opulent (gain tag: Luxury).
+* They can bear *Siege* weaponry.
+* They’re incredibly manoeuvrable (gain tag: Swift).
+* They’re equipped with rams and hooks for boarding actions (gain tag: Mighty).
+* They have enough stores to stay at sea for seasons at a time.
+* They can hold dozens of sailors (gain tag: Transport).
+* They’re numerous - you can outfit others with them when you Prepare and Provision without having to tap a Surplus.
 
+### What other resources can your character draw on?
+Pick two:
+* Navigators (Quality 1, Exploring and astronomy).
+* Bands of Raiders (Quality 1, Fighting and Pillaging).
+* Ancestral axes (Weapon: brutal, heirloom).
+* Flint knives (Weapon: many, hidden).
+* Grey-stave bows (Weapon: far, silent).
+* Salt-hardened leathers (Outfit: utility, tough).
+* Seaskins (Outfit: camo, thermo).
+* Purloined finery (Outfit: regal, BLAH). 
 ## Alliance Move
 *When you arrive in another House’s hour of need to aid them with force of arms or bountiful resources,* take 1-Treaty on them.
 ## Moves
-Summon Fleet
+Pick one:
+### Lore of the Navka
+The spirits of the drowned linger as birds soaring in the depthless skies above - but you have ways of coaxing their favour.
+Each of your characters knows the lore of the Navka. *By carving wood into a bird or a figurehead representing the drowned soul in life,* they draw the spirit’s attention, gaining protection from storms and from drowning. If the carving is installed on the prow of a ship the Navka’s will flows through the ship, letting a single captain command an entire boat. Though be warned - the spirit is hungry to experience the joys death denied them.
 
-Raid and Plunder
+### Summon the Fleet
+Even when they range far from home, your captains remain part of the fleet. How do you call for aid?
+* Massive ship-mounted horns.
+* Messenger gulls.
+* Blood shed into salt water.
 
-Sail in Search
+*When one of your captains send the call,* roll +Reach. On a hit, pick two:
+* Reinforcements arrive refreshed and ready.
+* Reinforcements arrive sooner than expected.
+* Reinforcements arrive in great numbers.
+* Reinforcements arrive with specialised gear.
 
-Trade Winds
+On a 10+, get fleeting Advantage on family moves using the reinforcements.
 
+### Raid and Plunder
+*When you Seize by Force a coastal settlement,* pick one:
+* You can quickly move any Surplus found in the settlement back onto your boats.
+* The settlement’s civilians dare not fight back.
+* You’re able to disarm their defences before striking.
 
+### Trade Winds
+Your ships sail beyond the borders of the homeland, finding exotic and strange things. At the start of each season, pick one of the following to gain as a Surplus:
+* Spices.
+* Dyes.
+* Jewellery.
+* Exotic Weaponry.
+* Foreign Ambassadors.
