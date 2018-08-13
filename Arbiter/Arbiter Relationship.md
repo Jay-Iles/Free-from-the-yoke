@@ -20,7 +20,9 @@ Every family starts at 0.
 *Each time your favour drops,* your Family's fortunes wane; trigger **Hold Together**.
 
 *Each time you ask for the aid of the Arbiter's Hand,* your Favour moves one step towards 0 (see Arbiter Characters).
-
+## Using Favour
+When you request assistance from the Arbiter, they are magnanimous in their support. Roll +Favour. On a hit you get the assistance; on a 10+ there are few strings attached, on a 7-9 it's a mixed bag. On a miss, GM picks one: the Arbiter sends their most incompetent lackey, or the assistance they send is effective but cares not for your wishes.
+ 
 ## Holding Court
 *At the beginning of each season,* the Arbiter calls on each Family of note to serve them. Roll +Favour.
 On a 6-, you're beneath their notice. They don't demand anything of you, but others see your isolation: lose 1-Treaty on each other faction. The GM says what faction is taking your place in the court.
