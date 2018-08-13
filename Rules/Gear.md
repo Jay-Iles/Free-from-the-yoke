@@ -6,7 +6,7 @@ For each of your Surpluses, pick a relevant benefit:
 * Add a tag to a piece of gear for this mission. 
 * Get as many copies of a weapon, outfit or transport as needed to outfit the whole party. 
 * Add 1 to the quality of a set of Followers for this mission, or get a new set with 1 quality and an appropriate specialty. 
-* Get scout's reports worth 1 Data. 
+* Get scout's reports worth 1 Insight. 
 
 Each option can be picked multiple times.
 
@@ -60,8 +60,8 @@ In addition, your transport may pick up these tags:
 * Swift: The transport is nimble and rapid. Gain advantage when you Defuse with it by evading danger and acting fast.
 * Mighty: The transport can be used as a weapon (tags: Melee, Brutal). Gain Advantage when you Fiercely Assault a smaller-scale foe with it. 
 * Hulking: The transport is much larger than other transports of its kind. It can carry many more passengers or cargo, but its size can make it slower and more cumbersome.
-* Canny: The transport is much better able to control its movements than others of its kind. If it’s a Mount, it gains Quality 1 and a specialism (see Companions). If it’s Drawn or a Ship, it gains the same ability to control its own movements as a Mount.
+* Canny: The transport is much better able to control its movements than others of its kind. If it’s a Mount, it gains Quality 1 and a specialism (see Followers). If it’s Drawn or a Ship, it gains the same ability to control its own movements as a Mount.
 
 
-# Companions
+# Followers
 
