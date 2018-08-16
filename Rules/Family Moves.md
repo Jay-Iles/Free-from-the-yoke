@@ -62,6 +62,15 @@ Similarly, sometimes you don’t have enough of something and you’re suffering
 If a Need could be met by a Surplus, erase both.
 If you gain a Surplus or Need you already have, gain a different one that everyone agrees is appropriate given the current circumstances.
 If you roll 6- on a family move and have a relevant Need, the GM can make as severe a reaction as they like.
+
+## Logistics
+When your Family moves a surplus from one place to another, collects a dispersed surplus, or disperses a collected surplus, pick one for each point of Mood below 0:
+
+  * GM says whose lands it must travel through. You’ll need their consent to travel unupposed.
+  * It’ll take a while - the process will finish at the start of the next season.
+  * The delivery stalls - GM says what’s needed to get it moving again.
+
+
 ## FINDING A SURPLUS
 When your family claims or creates a significant resource in the fiction, add it as a surplus.
 ## RIGHT TOOL FOR THE JOB
