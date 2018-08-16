@@ -63,12 +63,21 @@ If a Need could be met by a Surplus, erase both.
 If you gain a Surplus or Need you already have, gain a different one that everyone agrees is appropriate given the current circumstances.
 If you roll 6- on a family move and have a relevant Need, the GM can make as severe a reaction as they like.
 
+## The Location of Surpluses
+Surpluses existed in two states: Dispersed or Collected.
+
+  * Collected Surpluses are gathered together and at your House’s fingertips. You can use them in Family moves, but they’re vulnerable to being lost thanks to the GM’s reactions or the efforts of other players.
+  * Dispersed Surpluses are scattered across your holdings. They’re resistant to attack or misfortune, but cannot be actively used for moves such as Prepare or Provision or Right Tool for the Job.
+
+Surpluses in either state count positively towards your Mood.
+
 ## Logistics
 When your Family moves a surplus from one place to another, collects a dispersed surplus, or disperses a collected surplus, pick one for each point of Mood below 0:
 
   * GM says whose lands it must travel through. You’ll need their consent to travel unupposed.
   * It’ll take a while - the process will finish at the start of the next season.
   * The delivery stalls - GM says what’s needed to get it moving again.
+  * You push yourselves to make it happen - pay 3 Coin or gain a Need of the GM’s choice. 
 
 
 ## FINDING A SURPLUS
