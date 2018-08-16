@@ -1,7 +1,7 @@
 # Prepare and Provision
 When your House outfits your character, they can access special tools based on their circumstances. 
 Start with your Assets, adjusted based on your character’s gear move.
-For each of your Surpluses, pick a relevant benefit: 
+Each of your Surpluses can be tapped to provide a relevant benefit:
 
 * Add a tag to a piece of gear for this mission. 
 * Get as many copies of a weapon, outfit or transport as needed to outfit the whole party. 
@@ -10,16 +10,16 @@ For each of your Surpluses, pick a relevant benefit:
 
 Each option can be picked multiple times.
 
-# Weapon tags
+# Armoury tags
 
 Every house can always outfit a character with a weapon with the melee tag.
 
-Melee: This weapon can be used to attack foes within a few yards.
+* Melee: This weapon can be used to attack foes within a few yards.
 
 Here are the extra tags you might give weapons:
 
 * Far: This weapon can be used to attack foes within eyesight.
-* Brutal: The weapon inflicts awful harm, devestating and terrifying foes.
+* Brutal: The weapon inflicts awful harm, devastating and terrifying foes.
 * Silent: The weapon doesn’t draw attention to you when used.
 * Hidden: Carrying this weapon won’t cause people to think you’re dangerous.
 * Siege: The weapon can help bring down fortifications and army-scale defences, but it requires a group of companions with a relevant specialisation to operate and needs special transports to move it.
@@ -29,8 +29,9 @@ Here are the extra tags you might give weapons:
 * Heirloom: The weapon played a pivotal role in your House’s history. While you hold it, gain Advantage on rolls to command and convince members of your House. If you lose it and don’t recover it before we Zoom Out, your House must Hold Together.
 * Weird: Something of the old lore of the land clings to the weapon, causing a particular spooky effect specific to the weapon.
 * Cleave: The weapon lets you fight at full effect even when outnumbered.
+* Defensive: The weapon helps you defend yourself, or lets you carry a buckler or shield. Sacrifice this tag to intercept a blow hitting you or someone within arm’s reach, negating all harm.
 
-# Outfit tags
+#  Outfit tags
 
 Every house can always outfit a character with an outfit with either the *practical* or the *heraldry* tags.
 
@@ -64,4 +65,3 @@ In addition, your transport may pick up these tags:
 
 
 # Followers
-

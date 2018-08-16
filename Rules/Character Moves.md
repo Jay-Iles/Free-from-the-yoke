@@ -36,16 +36,25 @@ A 10+ result takes the threat out of the picture until someone takes action to r
 
 ### Examples: Disarm
 
-## Unleash Power
-When you learn a ritual of the land, the GM will give you a few clues about what it can do. 
-When you use the ritual, say a thing you want it to do based on your understanding of it and roll +Lore. 
-On a 7-9 pick two; on a 10+ pick three:
-* The magic does not draw power from your own health.
-* The magic only affects as much as you wish it to.
-* The magic lasts for as long as you wish it to.
-* The magic does not cause any lingering effects in the area.
+## Work a Ritual
+When you perform a ritual of the land, say a thing you want it to do based on your understanding of it and roll +Lore. 
+On a hit it does roughly what you want: on a 7-9 pick one Blessing, on a 10+ pick two. The GM will pick one Bane, plus one more for each of the conditions your tutor gave that you’ve broken (see Learn a Ritual).
 
-Magic is unpredictable: only the options you pick when you use the ritual definitely happen. The options you didn’t pick may happen, or may not – it’s up to the GM. 
+### Blessings
+* The magic does exactly what you desire, no more and no less.
+ * The magic is far more powerful than normal.
+* The surge of power heals a Flesh Wound.
+* Select two Banes: the GM cannot pick them.
+* You gain Fleeting Advantage.
+* You gain an insight into your tutor’s current state.
+
+### Banes
+* The land’s power warps your body in some way.
+* The land demands a small sacrifice from you.
+* The land shows you something it thinks you need to know.
+* The land’s creatures avoid, attack, watch or crave you.
+* The weather changes suddenly and dramatically.
+
 GM note: even when a ritual doesn’t do what a player wants, rolling a 7+ should still improve their current situation.
 The clues a GM gives aren’t absolute. A group has the ability to veto a player’s suggested function for a ritual, as they can for any suggestion, but it’s fine for a player to propose an effect that’s different from what the GM had in mind. 
 
