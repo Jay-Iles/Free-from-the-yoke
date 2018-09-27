@@ -16,14 +16,24 @@
 					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>Arbiter Playbooks.md</key>
+			<key>Arbiter Characters.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>554819584.86622202</real>
+				<real>558542117.787377</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>9</integer>
+					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>Arbiter Playbooks.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>558542124.85853696</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>26</integer>
 				</dict>
 			</dict>
 			<key>Arbiter Relationship.md</key>
@@ -36,6 +46,26 @@
 					<integer>15</integer>
 				</dict>
 			</dict>
+			<key>Arbiter+Projects.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>558542117.787377</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>Legendary Warriors.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>558542124.85853803</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>26</integer>
+				</dict>
+			</dict>
 			<key>The Arbiter's Agent.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -44,6 +74,16 @@
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
 					<integer>17</integer>
+				</dict>
+			</dict>
+			<key>Unrelenting Pioneers.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>558542124.90766299</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>27</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -55,12 +95,20 @@
 		</array>
 		<array>
 			<string>Arbiter Playbooks.md</string>
+			<string>Legendary Warriors.md</string>
+			<string>Unrelenting Pioneers.md</string>
 		</array>
 		<array>
 			<string>Age Modifiers.md</string>
 		</array>
 		<array>
 			<string>Arbiter Relationship.md</string>
+		</array>
+		<array>
+			<string>Arbiter Characters.md</string>
+		</array>
+		<array>
+			<string>Arbiter+Projects.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -70,7 +118,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>18</integer>
+			<integer>28</integer>
 		</dict>
 	</dict>
 </dict>
