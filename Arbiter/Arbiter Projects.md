@@ -1,3 +1,4 @@
+## Arbiter Projects
 A list of projects:
 
 # Claiming Territory
@@ -18,7 +19,15 @@ Increase this project’s doom track when:
 * 
 
 ## Resolution
+When this project hits 5 Progress, the annexation is complete. The GM draws the Land’s new borders on the map. Each player chooses one:
+* You claim a vast section of the new land. Gain Surplus: Land and raise Grasp by 1.
+* You claim a valuable resource site. Gain Surplus: Rare Materials and 5 Coin.
+* You control travel to the new region. Erase Surplus: Transport to gain 5 Coin and get 2 Treaty on each House that colonises the new region.
+* You agitate for the rights of the new land’s inhabitants. Gain Surplus: Justice and 2 Treaty on the inhabitants, but lose 1-Favour.
+* You learn something surprising in the new land. Gain a House move from a playbook that isn’t in play, and add a new ritual to your House’s lore.
+* Your explorers travel far and wide. Gain 1 Reach and 5 Insight.
 
+If, instead, the project hits 5 Doom, the expedition is abandoned.
 
 # Working Magic.
 

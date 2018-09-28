@@ -16,20 +16,6 @@
 					<integer>17</integer>
 				</dict>
 			</dict>
-			<key>Core Mechanic modification.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>554819332.00599897</real>
-				<key>lastModification</key>
-				<real>554819332.00599897</real>
-				<key>version</key>
-				<dict>
-					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>24</integer>
-				</dict>
-			</dict>
 			<key>Family Moves.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -55,7 +41,6 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Core Mechanic modification.md</string>
 			<string>Family Moves.md</string>
 			<string>Character Moves.md</string>
 			<string>Playable Prologue Mechanics.md</string>
@@ -68,7 +53,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>24</integer>
+			<integer>25</integer>
 		</dict>
 	</dict>
 </dict>

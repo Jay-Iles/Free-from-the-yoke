@@ -68,12 +68,16 @@
 			</dict>
 			<key>The Vagabond.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>559828914.53664005</real>
 				<key>lastModification</key>
-				<real>554711521.062356</real>
+				<real>559828914.53664005</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>2</integer>
+					<integer>14</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -126,7 +130,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>13</integer>
+			<integer>14</integer>
 		</dict>
 	</dict>
 </dict>
