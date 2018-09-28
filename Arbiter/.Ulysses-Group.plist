@@ -36,6 +36,16 @@
 					<integer>26</integer>
 				</dict>
 			</dict>
+			<key>Arbiter Projects.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>559759515.81059504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>29</integer>
+				</dict>
+			</dict>
 			<key>Arbiter Relationship.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -44,16 +54,6 @@
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
 					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>Arbiter+Projects.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>558542117.787377</real>
-				<key>version</key>
-				<dict>
-					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>Legendary Warriors.md</key>
@@ -108,7 +108,7 @@
 			<string>Arbiter Characters.md</string>
 		</array>
 		<array>
-			<string>Arbiter+Projects.md</string>
+			<string>Arbiter Projects.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -118,7 +118,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>28</integer>
+			<integer>30</integer>
 		</dict>
 	</dict>
 </dict>
